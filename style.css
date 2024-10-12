@@ -1,17 +1,37 @@
 
 body {
-    background-color: #e02b2b;
+    background-color: #bb5252;
 }
 
 h1 {
     display: flex;
     justify-content: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     color:beige;
     font-size: 99px;
+    letter-spacing: 50px;
 }
 
 .topBorder {
-    border-top: 7px solid black;
+    border-top: 3px solid beige;
+    width:100%;
 
+}
+
+h2 {
+    color: beige;
+    display:flex;
+    justify-content:center;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.buyoutline {
+    width: 80%;
+    border: 2px solid beige;
+    padding: 25px;
+    margin: auto;
 }
