@@ -1,0 +1,17 @@
+
+body {
+    background-color: #e02b2b;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:beige;
+    font-size: 99px;
+}
+
+.topBorder {
+    border-top: 7px solid black;
+
+}
